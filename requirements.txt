@@ -1,0 +1,9 @@
+﻿Jax==0.4.28
+jaxlib==0.4.28
+matplotlib==3.9.0
+numpy==1.26.4
+optax==0.2.2
+piquasso==4.0.0
+scipy==1.13.1
+strawberryfields==0.23.0
+tensorflow==2.16.1
